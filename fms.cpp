@@ -91,9 +91,9 @@ int main(int argc, char * argv[]) {
 	float f = 0;
 	while (a < 23) {
 		while (pow((h*0.6827840569218967)+b+f,3)*pi < pow(h,3))
-			f += (1*(1000/pow(10,a)));
+			f += (1*(100/pow(10,a)));
 		while (pow((h*0.6827840569218967)+b+f,3)*pi > pow(h,3))
-			f -= (1*(1000/pow(10,a)));
+			f -= (1*(100/pow(10,a)));
 		b += f;
 		f = 0;
 		a++;
