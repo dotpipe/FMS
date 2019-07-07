@@ -1,4 +1,4 @@
-/*
+/* 
     FMS - Field Metric Scalar for Circles and Spheres to Squares and Cubes
     Copyright (C) 2018  Anthony David Pulse, Jr. - inland14@live.com
   
