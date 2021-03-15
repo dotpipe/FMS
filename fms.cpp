@@ -57,6 +57,6 @@ int main(int argc, char * argv[]) {
 	cout << "\t\tCircle (e-20)\t\tRadius (e-20)\n\r" << endl;
 
 	printf("\t\t%.20f\t%.20f\n",pow((h*0.56418957569775374239),2)*pi, (h*0.56418957569775374239));//, (0.33333332405748857138 * pow(h,3)), 1.9999999443449314283 * h);
-	cout << "\n\tpow((h*0.282094787848876871195)*sqrt(h),2)*pi*4 = " << (pow((h*0.282094787848876871195)*sqrt(h),2)*pi*4) << "\t\tCubic Area: " << pow(h,3) << endl;
+	cout << "\n\tpow(h*0.56418957569775374239),2)*pi*h = " << (pow(h*0.56418957569775374239),2)*pi*h) << "\t\tCubic Area: " << pow(h,3) << endl;
 	return 1;
 }
