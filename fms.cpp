@@ -56,6 +56,6 @@ int main(int argc, char * argv[]) {
 	cout << "\t\t\tArea (e-20)\t\t\t\tRadius (e-20)\t\t\t\tDiameter (e-20)\t\t\tCircumference (e-20)\t\t\t\tRatio (e-20)\n\r" << endl;
 
 	printf("\t\t%.20f\t%.20f\t\t%.20f\t\t%.20f\t\t%.20f\t%.20f",pow((h*0.56418959),2)*pi,(h*0.56418959),(h*0.56418959*2),2*pi*(h*0.56418959),(2*pi*(h*0.56418959))/(2*(h*0.56418959)));
-	cout << "\n\n\n\tpow(h*0.56418957569775374239,2)*pi*h = " << (pow(h*0.56418959,2)*pi*h) << "\t\tCubic Area: " << pow(h,3) << endl;
+	cout << "\n\n\n\tpow(h*0.56418959,2)*pi*h = " << (pow(h*0.56418959,2)*pi*h) << "\t\tCubic Area: " << pow(h,3) << endl;
 	return 1;
 }
