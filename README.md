@@ -10,6 +10,6 @@ Figures out the spherical and circular area difference between those and cubes a
 
 This is a formula I corrected. Rather than use the standard piR^2, I'm using
 
-pi(h*0.56418957569775374239)^2
+pi(R*0.56418957569775374239)^2
 
 which intends to give a perfect radius to get a perfect square area
