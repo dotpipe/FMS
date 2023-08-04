@@ -6,9 +6,9 @@ usage:
 fms.exe [float]
 
 Needs one argument. Just a number, can be decimal. 
-Figures out the spherical and circular area difference between those and cubes and squares, respectively.
+Finds the circular measurements equal to squares.
 
-This is a formula I corrected. Rather than use the standard piR^2, I'm using
+This is a formula I corrected. Rather than use the standard Πr², I'm using
 
 Π(r*0.56418957569775374239)²
 
