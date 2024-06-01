@@ -10,6 +10,6 @@ Finds the circular measurements equal to squares.
 
 This is a formula I corrected. Rather than use the standard Πr², I'm using
 
-Π(r*0.56418957569775374239)²
+Π(r*0.56418958354775628694807945156085)²
 
 which intends to give a perfect radius to get a perfect square area
